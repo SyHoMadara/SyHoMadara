@@ -1,3 +1,3 @@
 ## Hi there 👋
-I am currently pursuing my undergraduate studies at the Amirkabir University of Tecnology(AUT).
-- 🌱 My intrested field: Computation Theory, Algorithm ,Logic and Set Theory
+I am currently pursuing my master studies at the University of Tehran in Computer Science.
+- 🌱 My intrested field: Logic, Set Theory and Being Admin System!!
